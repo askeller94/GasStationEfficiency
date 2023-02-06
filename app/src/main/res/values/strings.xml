@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GasStationEfficiency</string>
+    <string name="result_text">The most efficient gas station is %1$s with a total cost of $%2$s</string>
 </resources>
